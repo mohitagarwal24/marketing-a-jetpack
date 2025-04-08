@@ -1,4 +1,4 @@
-# Gemini Cookbook
+# Product Sketch Analyser
 
 This project is a React application using Vite, designed to analyze product sketches and generate marketing content using the Google GenAI API.
 
